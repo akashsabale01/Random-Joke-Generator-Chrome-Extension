@@ -1,0 +1,17 @@
+body {
+  width: 300px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  font-family: "Poppins", sans-serif;
+}
+
+#jokeElement {
+  color: darkred;
+  font-size: 1.1rem;
+  padding: 10px;
+  border: 1px solid lightcoral;
+  border-radius: 6px;
+  margin: auto 10px;
+}
